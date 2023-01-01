@@ -1,0 +1,9 @@
+
+    Polymorphism is a concept that means ability to take various forms.
+
+4 very important things is OOP ->
+
+1 |> abstraction
+2 |> encapsulation
+3 |> inheritance
+4 |> Polymorphism
