@@ -28,6 +28,6 @@ print(f"The name of employee is {ram.name}, salary is {ram.salary} and role is {
 print(f"The name of employee is {shyam.name}, salary is {shyam.salary} and role is {shyam.role}.")
 
 
-# also if we do .__dict__ on a class then it will show all instance variables
+# also if we do .__dict__ on a class then it will show all class variables
 
-# print(Employee.__dict__)
+print(Employee.__dict__)
