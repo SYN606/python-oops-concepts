@@ -16,9 +16,9 @@ class Employee:
 
     @classmethod
     def from_dash(cls, string):
-        # params = string.split("-")
-        # return cls(params[0], params[1], params[2])
-        return cls(*string.split("-"))
+        params = string.split("-")
+        return cls(params[0], params[1], params[2])
+        # return cls(*string.split("-"))
  
     @staticmethod # --> this is static method, is used for doing simple tasks and only accessable via either class variables or instance variables
     def print_good(string):
@@ -26,13 +26,16 @@ class Employee:
 
 ram = Employee("Ram", 18000, "Instructor")
 shyam = Employee("Shyam", 15000, "Clerk")
+
+
 karan = Employee.from_dash("Karan-1500-Adviser")
 
+# print(karan.print_details())
 # ram.change_leaves(25)
 # print(ram.num_of_leaves)
 
 # printing employee details
-# print(karan.print_details())
+print(karan.print_details())
 
 # printing static method 
-karan.print_good('karan')
+# karan.print_good('karan')

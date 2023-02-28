@@ -11,7 +11,7 @@ class Employee:
     # function for printing details
     
     def print_details(self):
-        return f"The name  of employee is {self.name}, salary is {self.salary} and role is {self.role}."
+        return f"The name of employee is {self.name}, salary is {self.salary} and role is {self.role}."
 
 ram = Employee("Ram", 18000, "Instructor")
 
