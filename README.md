@@ -18,3 +18,7 @@ For cloning this repo via command line :
 This repo contains many useful concepts of python as `oops concepts, file handelling some important modules` etc that are necessary for a python developer
 also these files are sorted in a learning roadmap that when you start reading it you dont feel bored.
     
+Check out [OOPs concepts](OOPS%20in%20Py). 
+Check out [File handelling](py%20FileManagement).
+
+### Thanks for visiting
