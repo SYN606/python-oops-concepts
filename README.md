@@ -3,7 +3,7 @@
 
 The basic idea o this repo came in my mind when i was learning python so i thought to provide a source code with all major topics in python.
 
-Now this repo contains basic of python in [python basics](python\basics)
+Now this repo contains basic of python in [python basics](python%20basics)
 
 ## Get Started 🚀  
 
