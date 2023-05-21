@@ -5,7 +5,7 @@ name = "Ethen Winters"
 Name ="Kang The Conquerer"
 print(name + "\n",Name)
 
-# type :- this prints the type of given variable or object.
+# type :- this prints the type of given variable or object.    syntax |-> ptint(type(var_name))
 
 num = "3882" # this is a string containing numbers.
 string = 3882 # this variable contains numerical values that are knowns as integer.
